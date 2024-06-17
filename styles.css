@@ -1,0 +1,88 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+main{
+    background:#eee;
+    text-align: center;
+    border-radius:10px;
+    margin:30px 8px;
+    padding:10px;
+    font-size:18px;
+    font-family: Georgia, 'Times New Roman', 
+    Times, serif;
+    padding-bottom:45px;
+}
+
+#img{
+    max-width: 100%;
+    height:auto;
+}
+
+img{
+    margin:15px auto;
+}
+
+header{
+    margin:5px;
+}
+
+#img-div{
+    background-color: white;
+    padding:15px;
+}
+
+#title{
+    margin:15px auto 5px auto;
+    padding:15px;
+
+}
+
+h1{
+    font-family:'Times New Roman', Times, serif;
+    font-size:2.5rem;
+    font-weight: 750;
+    margin-bottom:20px;
+}
+
+.bold{
+    font-weight: 600;
+}
+
+#tribute-info{
+    width:60%;
+    margin:25px auto;
+    background:white;
+    border:2px solid black;
+    border-radius: 10px;
+    padding:10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#tribute-info h3{
+    margin:10px auto 25px auto;
+}
+
+ul{
+    width:80%;
+    margin:auto;
+}
+ul li{
+    text-align: left;
+    margin:15px;
+}
+
+#appreciation{
+    width:40%;
+    text-align: left;
+    margin:auto;
+    font-style: italic;
+    line-height: 1.8rem;
+    margin-bottom:45px;
+}
+
+footer{
+    font-family: 'Times New Roman', Times, serif;
+    font-size:1.4rem;
+}
